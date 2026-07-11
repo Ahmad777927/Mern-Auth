@@ -81,39 +81,6 @@ A full-stack authentication system built with the **MERN Stack** (MongoDB, Expre
 
 ---
 
-# 📂 Project Structure
-
-```
-mern-auth/
-│
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   ├── mail/
-│   ├── server.js
-│   └── .env
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   ├── hooks/
-│   │   ├── services/
-│   │   ├── routes/
-│   │   └── App.jsx
-│   │
-│   └── package.json
-│
-└── README.md
-```
-
----
-
 # ⚙️ Installation
 
 ## Clone Repository
